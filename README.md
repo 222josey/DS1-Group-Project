@@ -2,7 +2,7 @@
 
 Authors: Jose Hernandez: 2139856, Jessica Sanchez: 2188533, David Mendez: 2031825
 
-This folder contains 5 files:
+This folder contains 4 files:
 
 1. **README.md**: this
 2. **ds1gp.ipynb**: a python notebook with the code for figures generated in the report
